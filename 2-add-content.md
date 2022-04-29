@@ -6,6 +6,8 @@
 
 ## Step 2: Creating contact and social media links
 
+✅ What caveats should we consider when adding contact information and social media links to a resume?
+
 1. Inside **index.html**, replace **your-email@example.com** with your email address.
     ```html
     <p>
@@ -21,6 +23,8 @@
     * fab fa-facebook
 
 ## Step 3: Your Experience
+
+✅ What should a new developer or a career changer consider when building their professional experience section?
 
 Add as work experience entries, modifying the text as appropriate. 
 
@@ -40,6 +44,8 @@ Add as work experience entries, modifying the text as appropriate.
     ```
 
 ## Step 4: Adding Skills and Education
+
+✅ How should you approach adding your skills and education?
 
 Let's fill in the final sections of the resume with your skills, in order of expertise
 

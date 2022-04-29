@@ -17,8 +17,6 @@ You now have the HTML file created for your resume site!
 
 Let's start adding the HTML for our page. Every HTML page includes three main tags - `html` which contains all the HTML, `head` which includes information about the page, and `body` which contains the contents to display on the page. Tags can also contain **attributes**, which allow us to change how a tag behaves. Attributes are key/value pairs such as `rel="stylesheet"`.
 
-You're going to use these three tags (and a couple of others) to begin the creation of your resume. We'll explain the tags we're using after we create the page.
-
 1. Inside the **index.html** window, add the following code to create the initial structure of your page, replacing **Your Name** in the `<title>` tag with your name:
 
     ```html
@@ -61,6 +59,8 @@ You're going to use these three tags (and a couple of others) to begin the creat
 		</body>
 	</html>
     ```
+
+✅ Contact, Skills, Education and Experience. Are these the most important things to add to your resume?
 
 ## Next Steps
 

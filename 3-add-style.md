@@ -2,6 +2,8 @@
 
 CSS, or Cascading Stylesheets, is used to provide style - it's the 'skin' of your web page.
 
+✅ How 'aesthetically pleasing' does your resume need to be?
+
 ## Step 1: Adding a style sheet
 
 1. Hover over the name of your repository, **resume**, in the Explorer pane on the left-hand side of your screen, then select the **File with +** icon. Name the file **style.css**.
@@ -95,7 +97,7 @@ Add some padding around the elements on your page:
 
 ## Step 5: Selecting an element by ID
 
-Sometimes, you want to style a specific element on a page. Notice that each of the `article` elements has an id property - "mainLeft" and "mainRight". We can select these elements by their ID in the CSS and style them. So, to add a border to just the left column, add this final rule to your stylesheet:
+Add a border to just the left column by adding this final rule to your stylesheet:
 
     ```css
     #mainLeft {

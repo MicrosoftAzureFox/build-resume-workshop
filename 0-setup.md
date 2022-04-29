@@ -22,10 +22,6 @@ The extension will be installed.
 
 To turn on AutoSave, select the three parallel lines icon on the left-hand side of your github.dev window in the Activity Bar. Go to **File > AutoSave**. Your AutoSave is turned on if there is a check mark next to the AutoSave menu item. 
 
-## Step 4: Install the Azure Static Apps extension
-
-TODO
-
 ## Next Steps
 
 Congratulations! You have the tools you need to begin creating HTML and CSS pages. Next, let's [create our first page](./1-create-html.md).
