@@ -20,11 +20,7 @@ In this workshop, you will:
 
 Let's get started!
 
-## Feedback
-
-Be sure to give [feedback about this workshop](https://forms.office.com/r/MdhJWMZthR)!
-
-[Code of Conduct](../../CODE_OF_CONDUCT.md)
+## Credits
 
 Credits: Ornella Altunyan, Burke Holland, Christopher Harrison, Jen Looper. This workshop in full can be found in the Academic Cloud Advocate's Workshop Library: https://aka.ms/workshopomatic.  
 
