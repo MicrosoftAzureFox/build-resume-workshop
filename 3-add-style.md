@@ -54,7 +54,8 @@ We want to create two columns, one for each article grouping.
     ```css
         main { 
             display: grid;
-            grid-template-columns: 40% 60%;
+            grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+            grid-gap: 1em;
             margin-top: 3em;
         }
     ```
