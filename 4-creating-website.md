@@ -2,7 +2,7 @@
 
 Now that you have your basic resume crafted in [HTML](./create-html.md) and [CSS](./add-style.md), let's work on putting your resume on a website. To do this, we'll use a feature called GitHub Pages, which allows you to create a website directly from a repository on GitHub. 
 
-✅ What's the best place to add your resume? GitHub, LinkedIn, your personal web site, or other?
+✅ Where's the best place to add your resume? GitHub, LinkedIn, your personal web site, or other?
 
 ## Commit your changes
 
@@ -25,8 +25,6 @@ Next, turn on GitHub Pages for your **resume** repository.
 ## Extra Credit!
 
 Export your resume to a PDF file by saving it as a PDF from your browser's print functionality and uploading it to LinkedIn!
-
-✅ Your resume is live, now how can you attract a recruiter's attention to land the job you want?
 
 ## Summary
 
