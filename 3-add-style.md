@@ -74,12 +74,14 @@ We want to create two columns, one for each article grouping.
         padding-bottom: 1em;
     }
 
-    #mainLeft {
-        border-right: 1px solid lightgray;
+    @media (min-width: 1000px){
+        #mainLeft {
+            border-right: 1px solid lightgray;
+        }
     }
 ```
 
-This will split the `main` element into two columns. The first top-level element under `main` which is an `article` will be the first column and will take up 40% of the available space. The second top-level element under `main` (also an `article`) will take up the remaining 60%. It will also add a border to the mainLeft section.
+This will split the `main` element into two columns. The first top-level element under `main` which is an `article` will be the first column and will take up 40% of the available space. The second top-level element under `main` (also an `article`) will take up the remaining 60%. It will also add a border to the mainLeft section for larger screen sizes.
 
 ## Step 3: Add an icon font
 
