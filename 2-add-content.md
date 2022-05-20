@@ -11,16 +11,10 @@
 1. Inside **index.html**, replace **your-email@example.com** with your email address.
 ```html
 <p>
-    <i class="fa fa-envelope" aria-hidden="true"></i>
     <a href="mailto:your-email@example.com">your-email@example.com</a>
 </p>
 ```
-1. Repeat this for any social media that you want to add. Swap out the `class` of the `i` element, representing icons, with any of the following values.
-
-    * fab fa-twitter
-    * fab fa-linkedin
-    * fab fa-github
-    * fab fa-facebook
+1. Repeat this for any social media that you want to add.
 
 ## Step 3: Adding Education and Skills
 
