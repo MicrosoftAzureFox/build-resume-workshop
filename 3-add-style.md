@@ -83,16 +83,6 @@ We want to create two columns, one for each article grouping.
 
 This will split the `main` element into two columns. The first top-level element under `main` which is an `article` will be the first column and will take up 40% of the available space. The second top-level element under `main` (also an `article`) will take up the remaining 60%. It will also add a border to the mainLeft section for larger screen sizes.
 
-## Step 3: Add an icon font
-
-An icon font is a font that contains symbols and glyphs instead of letters and numbers. 
-
-1. In the **index.html** file, add the following line to the `head` element...
-
-```html
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
-```
-
 ## Next steps
 
 You have successfully added style to your resume using CSS. 
